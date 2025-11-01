@@ -1,0 +1,5 @@
+用vpn 得用ssh才能建立联系 
+git push origin master 更改在本地上传后，用这个上传到终端
+输入这个后ssh -T git@github.com，如果看到 Hi jingyangBao! You've successfully authenticated... 就说明一切正常，以后都可以无缝使用了
+连接参考的是这个https://blog.csdn.net/m0_51185558/article/details/126181439
+
